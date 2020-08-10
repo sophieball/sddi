@@ -54,6 +54,7 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 | Tuesday Aug 17th | 9:00-10:00 | Diversity and Heterogeneity | Biao Xiang, Max Planck Institute  | 
 
 ### Attendees
+
 | Name | Affiliation |
 | ---------------------- | --------------------------------------------------------- |
 | Alexander Serebrenik   | Eindhoven University of Technology                        |
