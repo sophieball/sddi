@@ -1,4 +1,3 @@
-# Software Developer Diversity and Inclusion (SDDI) Workshop
 Location: Anywhere in the world
 
 August 17-18, 2020
