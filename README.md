@@ -51,3 +51,32 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 | Date | Time | Topic/Link | Speaker/Leader | 
 | ---- | ---- | ----- | ---------------| 
 | Tuesday Aug 17th | 9:00-10:00 | Diversity and Heterogeneity | Biao Xiang, Max Planck Institute  | 
+
+### Attendees
+| Name | Affiliation |
+| ---------------------- | --------------------------------------------------------- |
+| Alexander Serebrenik   | Eindhoven University of Technology                        |
+| Alexis Hunt            | Google                                                    |
+| Amiangshu Bosu         | Wayne State University                                    |
+| Andrew Begel           | Microsoft Research                                        |
+| Anita Sarma            | Oregon State University                                   |
+| Ash Kumar              | Google                                           |
+| Ayushi Rastogi         | TU Delft                                        |
+| Biao Xiang             | University of Oxford and Max Planck Institute                                                          |
+| Bogdan Vasilescu       | Carnegie Mellon University                                |
+| Carolyn Egelman        | Google                                                    |
+| Corrina Burnley        | Google                                                    |
+| Damyanka Tsvyatkova    | University of Limerick                                    |
+| Denae Ford             | Microsoft Research                                        |
+| Dominique Wimmer       | Google - Equity Engineering                               |
+| Ita Richardson         | Lero, University of Limerick, Ireland                     |
+| Kate Stewart           | Linux Foundation                                          |
+| Kelly Blincoe          | University of Auckland                                    |
+| Margaret Anne D Storey | University of Victoria                                    |
+| Pernille Bjørn         | University of Copenhagen, Denmark                         |
+| Rafael Prikladnicki    | PUCRS University and Tecnopuc Science and Technology Park |
+| Saron Yitbarek         | CodeNewbie                                                          |
+| Stephanie Ludi         | University of North Texas                                 |
+| Stina Matthiesen       | University of Copenhagen                                  |
+| Valeria Borsotti       | Chalmers University of Technology                         |
+| Yu Huang               | University of Michigan                                    |
