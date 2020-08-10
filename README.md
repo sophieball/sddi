@@ -45,6 +45,8 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 
 ### Schedule (Time zone: Pacific Daylight Time (PDT) / UTC -7h)
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23C0CA33&amp;mode=AGENDA&amp;title=SDDI%202020&amp;showDate=0&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 | Date | Time | Topic/Link | Speaker/Leader | 
