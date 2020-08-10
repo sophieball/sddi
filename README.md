@@ -1,3 +1,5 @@
+# 2020 Software Developer Diversity and Inclusion Workshop
+
 Location: Anywhere in the world
 
 August 17-18, 2020
