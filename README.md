@@ -73,13 +73,21 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 | Damyanka Tsvyatkova    | University of Limerick                                    |
 | Denae Ford             | Microsoft Research                                        |
 | Dominique Wimmer       | Google - Equity Engineering                               |
+|	Edna Dias Canedo	|	UNIVERSITY OF BRASILIA	|
+| Emerson Murphy-Hill | Google |
+|	Felipe Ebert	|	Eindhoven University of Technology	|
 | Ita Richardson         | Lero, University of Limerick, Ireland                     |
 | Kate Stewart           | Linux Foundation                                          |
 | Kelly Blincoe          | University of Auckland                                    |
 | Margaret Anne D Storey | University of Victoria                                    |
+|	Martin Dybdal	|	University of Copenhagen	|
+|	Mary Sheeran	|	Chalmers University of Technology	|
 | Pernille Bjørn         | University of Copenhagen, Denmark                         |
 | Rafael Prikladnicki    | PUCRS University and Tecnopuc Science and Technology Park |
+|	Raula Gaikovina Kula	|	NAIST	|
 | Saron Yitbarek         | CodeNewbie                                                          |
+|	Sayma Sultana	|	Wayne State University	|
+|	Sebastian Baltes	|	QAware GmbH, Germany & University of Adelaide, Australia	|
 | Stephanie Ludi         | University of North Texas                                 |
 | Stina Matthiesen       | University of Copenhagen                                  |
 | Valeria Borsotti       | Chalmers University of Technology                         |
