@@ -89,6 +89,5 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 |	Sayma Sultana	|	Wayne State University	|
 |	Sebastian Baltes	|	QAware GmbH, Germany & University of Adelaide, Australia	|
 | Stephanie Ludi         | University of North Texas                                 |
-| Stina Matthiesen       | University of Copenhagen                                  |
 | Valeria Borsotti       | Chalmers University of Technology                         |
 | Yu Huang               | University of Michigan                                    |
