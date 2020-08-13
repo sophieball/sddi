@@ -22,6 +22,10 @@ This workshop was organized to raise awareness about developer diversity and inc
 
 <br/>
 
+### Registration
+
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSfwWOUEMWLhe1lHTGzKjVpgWFxukMXYGyxD9jhGJDJxv7iYAA/viewform). It's free!
+
 ### Keynote speakers
 
 **Biao Xiang**
