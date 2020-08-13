@@ -48,7 +48,7 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 ### Registration, Attendance, and Schedule
 
 * Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSfwWOUEMWLhe1lHTGzKjVpgWFxukMXYGyxD9jhGJDJxv7iYAA/viewform). It's free!
-* ([Join our Slack channel here](https://join.slack.com/t/sddi-2020/shared_invite/zt-gsmbkapc-RWha4nJRMCgvrIbyxhY5Fg))
+* [Join our Slack channel here](https://join.slack.com/t/sddi-2020/shared_invite/zt-gsmbkapc-RWha4nJRMCgvrIbyxhY5Fg)
 * Join the meeting at https://meet.google.com/fdn-kdif-ksa
 * See the calendar below for a schedule of events in *Pacific Daylight Time (PDT) / UTC -7h*
 * To see events in your local time zone, [open the calendar here](https://calendar.google.com/calendar/b/0?cid=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
