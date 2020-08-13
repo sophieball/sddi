@@ -55,6 +55,8 @@ Saron Yitbarek. Entrepreneur and founder of [CodeNewbie](https://www.codenewbie.
 
 ### Attendees
 
+([Please follow this link to join our Slack channel](https://join.slack.com/t/sddi-2020/shared_invite/zt-gsmbkapc-RWha4nJRMCgvrIbyxhY5Fg))
+
 | Name | Affiliation |
 | ---------------------- | --------------------------------------------------------- |
 | Alexander Serebrenik   | Eindhoven University of Technology                        |
