@@ -12,7 +12,7 @@ Organizers:
 
 [Margaret-Anne Storey](http://margaretstorey.com/),  University of Victoria   
 
-[Denae Ford Robinson](http://denaeford.me/), Microsoft Research
+[Denae Ford](http://denaeford.me/), Microsoft Research
 
 [Sophie Qiu](http://www.sophiehsqq.com/), Carnegie Mellon University
 
