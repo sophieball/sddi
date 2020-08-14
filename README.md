@@ -42,7 +42,8 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 
 **Saron Yitbarek**
 
-**What I learned from 6 years of building CodeNewbie** Saron shares the story of how she started her community-turned-company, CodeNewbie, the lessons learned along the way as an entrepreneur, a community manager, and a developer, and the impact of the acquisition on the future of the community.
+
+<img align="left" src="yitbarek-headshot.jpg" width = 100>**What I learned from 6 years of building CodeNewbie** Saron shares the story of how she started her community-turned-company, CodeNewbie, the lessons learned along the way as an entrepreneur, a community manager, and a developer, and the impact of the acquisition on the future of the community.
 
 
 **Saron Yitbarek** is the founder of Disco, a platform for audio courses on technical topics. She's also the founder of [CodeNewbie](https://www.codenewbie.org/) (acquired), a podcaster, speaker, and developer.
