@@ -50,6 +50,22 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 
 <br/>
 
+### Talks and Slides
+
+| Speaker Name         | Talk Title                                                                                                     |           |                                                                                                                     |
+|----------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Alexander Serebrenik | Is 40 the new 60? How popular media portrays the employability of older software developers                    | [Video](https://youtu.be/a7tt18Gh8M0)                | [Slides](https://www.slideshare.net/aserebrenik/is-40-the-new-60-how-popular-media-portrays-the-employability-of-older-software-developers) |
+| Ayushi Rastogi       | A Theory of Software Change                                                                                    | [Video](https://youtu.be/3-ZuquyzZKU)                | [Slides](https://docs.google.com/spreadsheets/d/1Xg1fIJfKXZtNAvkfZOJnpy-GEf7UqlyLTyyHkHn6MZc/edit?usp=sharing)                              |
+| Ita Richardson       | How can we include the EU Accessibility Directive in  our  on-line teaching materials?                         | [Video](https://youtu.be/fyiwwLBA9Gc)                | [Slides](https://drive.google.com/file/d/18nMlqTfsdWKfUMqt_emZ41ZAMjPanHb2/view?usp=sharing)                                                |
+| Dominique Wimmer     | Equity Engineering: Impact & Opportunity                                                                       | [Video](https://youtu.be/t2Pibvq2w44)                | [Slides](https://docs.google.com/presentation/d/1eoXAjBpJ8eO0KTNSNe7IW2pMMRlD6X0GYw8qM76FNZU/edit)                                          |
+| Stephanie Ludi       | Empathy, Opportunity and Inclusion in Accessible Design: a perspective from undergraduate CS education         | [Video](https://youtu.be/-AKdFN5_1LY)                | [Slides](https://drive.google.com/file/d/1t5XjcvLTkNHQWscAiNLzQGhf9yOSb4Nq/view?usp=sharing)                                                |
+| Carolyn Egelman      | Predicting Developers’ Negative Feelings about Code Review                                                     | [Video](https://youtu.be/R24SMhf1P0Y)                |                                                                                                                                   |
+| Yu Huang             | Investigaing Bias in Code Review using Medical Imaging and Eye-Tracking (and A Summay of Diversity Work at UM) | [Video](https://youtu.be/z8oQD_o2JL8)                | [Slides](https://drive.google.com/file/d/1iBO5VJnDebJRsx-xJ8Zgh4nVR9TcRPi7/view?usp=sharing)                                                |
+| Andrew Begel         | Experiences Running a D&I Program at ASE 2019                                                                  | [Video](https://youtu.be/bbY1ocm3Qlw)                | [Slides](https://www.slideshare.net/secret/d0NPjPxqKT8EWn)                                                                                  |
+| Denae Ford           | Conducting Covert x Overt Inclusion Research                                                                   | [Video](https://youtu.be/AzwaP1hdnec)                | [Slides](https://www.slideshare.net/secret/FrNjlrIhi1LTD5)                                                                                  |
+| Rafael Prikladnicki  | Agile Inclusive Accelerator: a research and education program for an equitable tech future                     | [Video](https://www.youtube.com/watch?v=2fayFh8pIko) | [Slides](https://docs.google.com/presentation/d/1D2WOVC5iZmPyDZZw_sqCblPGDWXWJPxxCtT6KpOFXLI/edit?usp=sharing)                              |
+| Anita Sarma          | Hidden Figures: Different Roles and Success Pathways in Open Source                                            | [Video](https://youtu.be/1kz4UClLQSg)                | [Slides](https://docs.google.com/presentation/d/1i59ZIncSiaEw29-sN3t5V0VeYbgkOgMjd82EGzizAFM/edit?usp=sharing)                              |
+
 
 ### Registration, Attendance, and Schedule
 
@@ -61,7 +77,6 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 * On August 17th, we'll have a variety of talks on the topic. On August 18th, we'll have breakout sessions, scheduled just-in-time.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23C0CA33&amp;mode=AGENDA&amp;title=SDDI%202020&amp;showDate=0&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 
 ### Attendees
 
