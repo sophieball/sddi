@@ -82,37 +82,76 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 
 
 
-| Name | Affiliation |
-| ---------------------- | --------------------------------------------------------- |
-| Alexander Serebrenik   | Eindhoven University of Technology                        |
-| Alexis Hunt            | Google                                                    |
-| Amiangshu Bosu         | Wayne State University                                    |
-| Andrew Begel           | Microsoft Research                                        |
-| Anita Sarma            | Oregon State University                                   |
-| Ash Kumar              | Google                                           |
-| Ayushi Rastogi         | TU Delft                                        |
-| Biao Xiang             | University of Oxford and Max Planck Institute                                                          |
-| Bogdan Vasilescu       | Carnegie Mellon University                                |
-| Carolyn Egelman        | Google                                                    |
-| Corrina Burnley        | Google                                                    |
-| Damyanka Tsvyatkova    | University of Limerick                                    |
-| Denae Ford             | Microsoft Research                                        |
-| Dominique Wimmer       | Google - Equity Engineering                               |
-|	Edna Dias Canedo	|	UNIVERSITY OF BRASILIA	|
-| Emerson Murphy-Hill | Google |
-|	Felipe Ebert	|	Eindhoven University of Technology	|
-| Ita Richardson         | Lero, University of Limerick, Ireland                     |
-| Kate Stewart           | Linux Foundation                                          |
-| Kelly Blincoe          | University of Auckland                                    |
-| Margaret Anne D Storey | University of Victoria                                    |
-|	Martin Dybdal	|	University of Copenhagen	|
-|	Mary Sheeran	|	Chalmers University of Technology	|
-| Pernille Bjørn         | University of Copenhagen, Denmark                         |
-| Rafael Prikladnicki    | PUCRS University and Tecnopuc Science and Technology Park |
-|	Raula Gaikovina Kula	|	NAIST	|
-| Saron Yitbarek         | CodeNewbie                                                          |
-|	Sayma Sultana	|	Wayne State University	|
-|	Sebastian Baltes	|	QAware GmbH, Germany & University of Adelaide, Australia	|
-| Stephanie Ludi         | University of North Texas                                 |
-| Valeria Borsotti       | Chalmers University of Technology                         |
-| Yu Huang               | University of Michigan                                    |
+| Name                      | Affiliation                                               |
+|---------------------------|-----------------------------------------------------------|
+| Akond Rahman              | Tennessee Tech University                                 |
+| Alannah Oleson            | University of Washington                                  |
+| Alexander Serebrenik      | Eindhoven University of Technology                        |
+| Alexandra Bugariu         | ETH Zurich, Switzerland                                   |
+| Amber Horvath             | Carnegie Mellon University                                |
+| Amiangshu Bosu            | Wayne State University                                    |
+| Amin Alipour              | University of Houston                                     |
+| Andrew Begel              | Microsoft Research                                        |
+| Anielle Severo Lisboa     | Pontifical Catholic University of Rio Grande do Sul       |
+| Anita Sarma               | Oregon State University                                   |
+| Ann Barcomb               | University of Calgary                                     |
+| Ash Kumar                 | Google                                           |
+| Ayushi Rastogi            | TU Delft                                        |
+| Biao Xiang	| University of Oxford and Max Planck Institute |
+| Bianca Trinkenreich       | Northern of Arizona University                            |
+| Bogdan Vasilescu          | Carnegie Mellon University                                |
+| Camila Freitas Sarmento   | Federal University of Campina Grande                      |
+| Carolyn Egelman           | Google                                                    |
+| Cassandra Cupryk          | University of Victoria                                    |
+| Chelsea Adelman           | GitHub                                                    |
+| Corrina Burnley           | Google                                                    |
+| Damyanka Tsvyatkova       | University of Limerick                                    |
+| Denae Ford                | Microsoft Research                                        |
+| Dominique Wimmer          | Google - Equity Engineering                               |
+| Edna Dias Canedo          | UNIVERSITY OF BRASILIA                                    |
+| Emerson Murphy-Hill       | Google                                                    |
+| Felipe Ebert              | Eindhoven University of Technology                        |
+| Gema Rodriguez-Perez      | University of Waterloo                                    |
+| Georgia de Oliveira Moura | Federal University of Rio Grande do Norte-BR              |
+| Grace Vorreuter           | GitHub                                                    |
+| Grischa Liebel            | Reykjavik University, Iceland                             |
+| Gustavo Pinto             | UFPA                                                      |
+| Honey Sukesan             | JLR                                                       |
+| Igor Steinmacher          | Northern Arizona University                               |
+| Isabella Ferreira         | Polytechnique Montréal                                    |
+| Ita Richardson            | Lero, University of Limerick, Ireland                     |
+| Italo Santos              | Northern Arizona University                               |
+| Jocelyn Simmonds          | University of Chile                                       |
+| Karina Kohl               | PUCRS                                                     |
+| Kate Stewart              | Linux Foundation                                          |
+| Kelly Blincoe             | University of Auckland                                    |
+| Margaret Anne D Storey    | University of Victoria                                    |
+| Mariam Guizani            | Oregon State University                                   |
+| Martin Dybdal             | University of Copenhagen                                  |
+| Mary Sheeran              | Chalmers University of Technology                         |
+| Narjes Bessghaier         | ETS, Canada                                               |
+| Paige Anne Rodeghero      | Clemson University                                        |
+| Pernille Bjørn            | University of Copenhagen, Denmark                         |
+| Peter Devine              | University of Auckland (Student of Kelly Blincoe)         |
+| Rafael Maiani de Mello    | CEFET-RJ                                                  |
+| Rafael Prikladnicki       | PUCRS University and Tecnopuc Science and Technology Park |
+| Raula Gaikovina Kula      | NAIST                                                     |
+| Saeed Siddik              | University of Dhaka                                       |
+| Saron Yitbarek | 	CodeNewbie |
+| Sanuri Gunawardena        | The University of Auckland                                |
+| Sayma Sultana             | Wayne State University                                    |
+| Sebastian Baltes          | QAware GmbH, Germany & University of Adelaide, Australia  |
+| Simin Maleki Shamasbi     | self-employed                                             |
+| Stefan Stanciulescu       | Hitachi ABB Power Grids Research                          |
+| Stephanie Ludi            | University of North Texas                                 |
+| Steven Clarke             | Microsoft                                                 |
+| Stina Matthiesen          | University of Copenhagen                                  |
+| Taher Ghaleb              | Queen's University                                        |
+| Tawfeeq Alsanoosy         | Taibah University                                         |
+| Tiago Massoni             | Federal University of Campina Grande                      |
+| Valeria Borsotti          | Chalmers University of Technology                         |
+| Xiaohua Jia               | Leiden University                                         |
+| Yang Yue                  | University of California, Irvine                          |
+| Yu Huang                  | University of Michigan                                    |
+| Yuriy Brun                | University of Massachusetts Amherst                       |
+| Zeina Saadeddin           | Arab American University of Palestine                     |
