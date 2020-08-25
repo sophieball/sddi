@@ -72,9 +72,7 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 * Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSfwWOUEMWLhe1lHTGzKjVpgWFxukMXYGyxD9jhGJDJxv7iYAA/viewform). It's free!
 * [Join our Slack channel here](https://join.slack.com/t/sddi-2020/shared_invite/zt-gsmbkapc-RWha4nJRMCgvrIbyxhY5Fg)
 * Join the meeting at https://meet.google.com/fdn-kdif-ksa
-* See the calendar below for a schedule of events in *Pacific Daylight Time (PDT) / UTC -7h*
-* To see events in your local time zone, [open the calendar here](https://calendar.google.com/calendar/b/0?cid=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-* On August 17th, we'll have a variety of talks on the topic. On August 18th, we'll have breakout sessions, scheduled just-in-time.
+* To see the event schedule in your local time zone, [open the calendar here](https://calendar.google.com/calendar/b/0?cid=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 
 ### Attendees
