@@ -76,11 +76,8 @@ Diversity and heterogeneity are not mutually exclusive. There are abundant heter
 * To see events in your local time zone, [open the calendar here](https://calendar.google.com/calendar/b/0?cid=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 * On August 17th, we'll have a variety of talks on the topic. On August 18th, we'll have breakout sessions, scheduled just-in-time.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18yaGNsdjc4bjQwcWJtMDlxMGN2ajFrdG4yMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23C0CA33&amp;mode=AGENDA&amp;title=SDDI%202020&amp;showDate=0&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Attendees
-
-
 
 | Name                      | Affiliation                                               |
 |---------------------------|-----------------------------------------------------------|
