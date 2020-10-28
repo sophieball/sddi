@@ -18,7 +18,7 @@ Organizers:
 
 This workshop is organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent is to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aim to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  
 
-Below, you may find details on the schedule and attendance.  Stay tuned for more details of the workshop outcomes! 
+Below, you may find details on the schedule and attendance.  [Read the final workshop report here.](Workshop_Report.pdf) 
 
 [Here is the link to last year's workshop](http://margaretstorey.com/sddi/)
 
